@@ -13,4 +13,4 @@ f = 1
 
 for i in range(1, n+1):
     f *=i
-    print("The factorial of ",i,"the input's"" number is", f)
+    print("The factorial of ",i," is", f)
